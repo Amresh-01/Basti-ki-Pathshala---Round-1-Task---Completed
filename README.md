@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Basti Ki Pathshala project
 
 
 ## How can I edit this code?
